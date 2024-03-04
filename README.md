@@ -2,13 +2,11 @@
 
 # Pricing Page
 
-![Fitness Pricing Page Logo](https://example.com/logo.png)
-
-A stylish pricing page for fitness programs, showcasing different subscription tiers and their features.
+A stylish pricing page for any# programs, showcasing different subscription tiers and their features.
 
 ## Introduction
 
-This project provides a user-friendly pricing page for fitness enthusiasts to explore and subscribe to various fitness programs. It features three subscription tiers: Basic, Pro, and Ultimate, each offering different benefits and features.
+This project provides a user-friendly pricing page  enthusiasts to explore and subscribe to various programs. It features three subscription tiers: Basic, Pro, and Ultimate, each offering different benefits and features.
 
 ## Features
 
@@ -21,9 +19,7 @@ This project provides a user-friendly pricing page for fitness enthusiasts to ex
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/rajat-kapoor/fitness-pricing-page.git`
-2. Navigate to the project directory: `cd fitness-pricing-page`
-3. Open `pricing_page.html` in your web browser.
+1. Clone the repository: `git clone https://github.com/rajat-kapoor/pricing-page.git`
 
 ## Usage
 
@@ -32,7 +28,6 @@ Simply open the `pricing_page.html` file in your web browser to view the pricing
 ## Credits
 
 - Author: Rajat Kapoor
-- Logo design by [RAJAT KAPOOR]
 
 ## License
 
