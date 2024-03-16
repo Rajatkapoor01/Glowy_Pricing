@@ -1,5 +1,5 @@
 # Glowy_Pricing
-![Image Alt Text]()
+![Image Alt Text](https://github.com/Rajatkapoor01/Glowy_Pricing/blob/main/GLOWY%20PRICE.png)
 
 # Pricing Page
 
