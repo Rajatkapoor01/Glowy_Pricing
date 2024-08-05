@@ -1,3 +1,4 @@
+HOST: https://rajatkapoor01.github.io/Glowy_Pricing/
 # Glowy_Pricing
 ![Image Alt Text](https://github.com/Rajatkapoor01/Glowy_Pricing/blob/main/GLOWY%20PRICE.png)
 
