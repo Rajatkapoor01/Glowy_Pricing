@@ -1,4 +1,6 @@
 HOST: https://rajatkapoor01.github.io/Glowy_Pricing/
+
+host2: https://rajatkapoor01dailyquote.netlify.app/
 # Glowy_Pricing
 ![Image Alt Text](https://github.com/Rajatkapoor01/Glowy_Pricing/blob/main/GLOWY%20PRICE.png)
 
